@@ -5,4 +5,4 @@ https://www.youtube.com/playlist?list=PLeqyOOqxeiIOLhFX2ygGjvOywnGE5rM-Z
 TODO:
 1. Почитать про формат *.BMP
 	https://ru.wikipedia.org/wiki/BMP
-2.
+2. 
