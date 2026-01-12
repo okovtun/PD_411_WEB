@@ -8,6 +8,9 @@ https://www.tiobe.com/tiobe-index/
 Qt:
 https://www.youtube.com/user/voidrealms
 
+Zoomit:
+https://learn.microsoft.com/ru-ru/sysinternals/downloads/zoomit
+
 TODO:
 Добить калькулятор.
 
