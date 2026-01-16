@@ -19,6 +19,9 @@ ARIA live regions:
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions
 
 TODO:
+
+
+DONE:
 1. На страницу добавить возведение числа в степень;
 2. Добавить ряд Фибоначчи. Пользователь указывает либо предел ряда,
    либо количество членов ряда;
