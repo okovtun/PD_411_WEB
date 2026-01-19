@@ -19,7 +19,7 @@ ARIA live regions:
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions
 
 TODO:
-
+https://github.com/okovtun/PD_411_WEB/blob/master/JavaScript/Geometry.txt
 
 DONE:
 1. Ќа страницу добавить возведение числа в степень;
