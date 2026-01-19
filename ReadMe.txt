@@ -19,6 +19,11 @@ ARIA live regions:
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions
 
 TODO:
+0. Создать ветку 'MyClock';
+1. Сделать часы красивыми;
+2. Обеспечить переключение между "электронными" часами и стрелочными часами;
+
+DONE:
 https://github.com/okovtun/PD_411_WEB/blob/master/JavaScript/Geometry.txt
 
 DONE:
