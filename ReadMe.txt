@@ -18,7 +18,10 @@ https://learn.microsoft.com/ru-ru/sysinternals/downloads/zoomit
 ARIA live regions:
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions
 
-TODO:
+Timestamp:
+https://en.wikipedia.org/wiki/Timestamp
+
+DONE:
 0. Создать ветку 'MyClock';
 1. Сделать часы красивыми;
 2. Обеспечить переключение между "электронными" часами и стрелочными часами;
