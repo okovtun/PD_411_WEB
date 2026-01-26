@@ -99,27 +99,27 @@ document.getElementById("btn-start").onclick = function startCountdownTimer()
         clearTimeout(tickCountdown);
     }
 
-    let display = document.getElementById("display");
-    //////////////////////////////////////
-    let append = document.createElement("div");
-    append.id = "appended";
-    append.innerHTML = "Appended element";
-    display.append(append);
-    //////////////////////////////////////
-    let prepend = document.createElement("div");
-    prepend.id = "prepended";
-    prepend.innerHTML = "Prepended element";
-    display.prepend(prepend);
-    //////////////////////////////////////
-    let before = document.createElement("h3");
-    before.id = "before-display";
-    before.innerHTML = "Time left since the beginning";
-    display.before(before);
-    //////////////////////////////////////
-    let after = document.createElement("h4");
-    after.id = "paradise";
-    after.innerHTML = "Сюда нужно будет прикрутить музон";
-    display.after(after);
+    //let display = document.getElementById("display");
+    ////////////////////////////////////////
+    //let append = document.createElement("div");
+    //append.id = "appended";
+    //append.innerHTML = "Appended element";
+    //display.append(append);
+    ////////////////////////////////////////
+    //let prepend = document.createElement("div");
+    //prepend.id = "prepended";
+    //prepend.innerHTML = "Prepended element";
+    //display.prepend(prepend);
+    ////////////////////////////////////////
+    //let before = document.createElement("h3");
+    //before.id = "before-display";
+    //before.innerHTML = "Time left since the beginning";
+    //display.before(before);
+    ////////////////////////////////////////
+    //let after = document.createElement("h4");
+    //after.id = "paradise";
+    //after.innerHTML = "Сюда нужно будет прикрутить музон";
+    //display.after(after);
 }
 function tickCountdown()
 {
@@ -175,9 +175,8 @@ function tickCountdown()
     }
     else removeTimeBlock("years");
     let months = Math.floor(date / SECONDS_PER_MONTH);
-    if (months > 0)
-    {
-        let display = document.getElementById("display");
+    if (months > 0) {
+        //let display = document.getElementById("display");
         date = date % SECONDS_PER_MONTH;
         let months_unit = document.getElementById("months-unit");
         if (months_unit == null) {
@@ -187,6 +186,14 @@ function tickCountdown()
         }
         else months_unit.innerHTML = addLeadingZero(months);
     }
+    else removeTimeBlock("months");
+
+    let weeks = Math.floor(date / SECONDS_PER_WEEK);
+    if (weeks > 0)
+    {
+        let 
+    }
+    ////////////////////////////////////////////////////////////////////////
 
     let hours = Math.floor(time_of_day / SECONDS_PER_HOUR);
     if (hours > 0) time_of_day = (time_of_day % (SECONDS_PER_HOUR));
