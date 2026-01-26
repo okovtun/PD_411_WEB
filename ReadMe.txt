@@ -21,6 +21,10 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regi
 Timestamp:
 https://en.wikipedia.org/wiki/Timestamp
 
+TODO:
+1. ѕерерать все файлы в каталоге 'sound' и загрузить их в выпадающий список;
+2. –ешить проблему с тем, что дни иногда по€вл€ютс€ не в том месте;
+
 DONE:
 0. —оздать ветку 'MyClock';
 1. —делать часы красивыми;
