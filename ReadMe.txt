@@ -11,6 +11,16 @@ https://www.youtube.com/user/voidrealms
 Zoomit:
 https://learn.microsoft.com/ru-ru/sysinternals/downloads/zoomit
 
+Usefull CSS:
+1.https://www.w3schools.com/cssref/css_units.php;
+2.http://css.yoksel.ru/3d-cube/;
+3.https://uiverse.io/forms
+4.Paralax
+
+GRUB4DOS
+1.https://sourceforge.net/projects/grub4dos/
+2.
+
 /////////////////////////////////////////////////////////////////////////
 ////////////////				JavaScript				/////////////////
 /////////////////////////////////////////////////////////////////////////
@@ -20,6 +30,9 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regi
 
 Timestamp:
 https://en.wikipedia.org/wiki/Timestamp
+
+DOM:	https://www.w3schools.com/js/js_htmldom.asp
+BOM:	https://www.w3schools.com/js/js_window.asp
 
 TODO:
 1. ¬ блоке "animation" должно отображатьс€ текущее врем€;
