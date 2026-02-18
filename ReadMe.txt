@@ -2,6 +2,17 @@ https://github.com/okovtun/PD_411_WEB.git
 https://okovtun.github.io/PD_411_WEB/
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIOLhFX2ygGjvOywnGE5rM-Z
 
+TODO:
+1. Устранить дубликаты фильмов (с одинаковым imdbID);
+2. Добить Pagination;
+
+DONE:
+1. Залить сегодняшний проект на GitHub-pages.
+
+IHS Scalping:
+https://www.youtube.com/watch?v=ZuzSx0HmpR0&t=3s
+https://www.youtube.com/watch?v=6YAzytpv0Pk
+
 Tiobe:
 https://www.tiobe.com/tiobe-index/
 
