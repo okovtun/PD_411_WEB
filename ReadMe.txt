@@ -2,9 +2,28 @@ https://github.com/okovtun/PD_411_WEB.git
 https://okovtun.github.io/PD_411_WEB/
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIOLhFX2ygGjvOywnGE5rM-Z
 
+Grow:
+https://codepen.io/mdusmanansari/pen/BamepLe
+
+Input with button:
+https://stackoverflow.com/questions/61749345/add-button-inside-input-field-reactjs
+
 TODO:
-1. Устранить дубликаты фильмов (с одинаковым imdbID);
-2. Добить Pagination;
+1. Добить очистку текстового поля;
+1. useStatic;
+2. useRef;
+3. useMemory;
+
+TODO:
+1. Сделать кнопку, которая перезапускает тестирование;
+2. Вопросы должны перемешиваться;
+3. Варианты ответов также должны перемешиваться;
+4. Если пользователь ответил правильно, выбранный вариант 
+   подсвечивается зклкным цветов, в противном случае - красным;
+
+DONE:
+1. Устранить дубликаты фильмов (с одинаковым imdbID):https://github.com/Smetank0105/react_pd_411_3/blob/master/src/components/MovieList.js;
+2. Добить Pagination: https://github.com/Veronika050987/react_pd_411_3/blob/master/src/components/Search.js;
 
 DONE:
 1. Залить сегодняшний проект на GitHub-pages.
