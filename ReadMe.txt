@@ -9,6 +9,9 @@ Input with button:
 https://stackoverflow.com/questions/61749345/add-button-inside-input-field-reactjs
 
 TODO:
+Создать компонент <Preloader > и применить его там, где это нужно;
+
+DONE:
 Загрузить еду;
 
 Девочки, всех с праздником!!!
